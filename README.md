@@ -1,4 +1,4 @@
-# simpleapp
+# vuejs-vuex-crud-operation
 
 ## Project setup
 ```
